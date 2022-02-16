@@ -18,3 +18,11 @@ It's an app calculating best time to sleep given wake up time, amount of sleep t
 CreateML to gather Machine Learning Data from a csv file to calculate the time to sleep.
 
 <img src = "https://user-images.githubusercontent.com/96804163/154330879-a8300fdb-a535-4e59-9ef9-aeef2cbbe3c5.png" width=30% height=30%>
+
+
+## Project 4 - WordScramble
+
+It's an app that provides a random 8 letters word and the user should find a new word using the given 8 letters.
+A new word should be a valid word, not a duplicate.
+
+<img src = "https://user-images.githubusercontent.com/96804163/154341708-ac9e50ae-1d30-40f4-8ddc-4561fa7c1d47.png" width=30% height=30%>
