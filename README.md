@@ -11,3 +11,10 @@ It's an app that splits payment including modifiable tip amount by number of peo
 It's a game app choosing a correct flag among three flags of given name. It keeps count of the correct score.
 
 <img src = "https://user-images.githubusercontent.com/96804163/154109187-83d9a68f-5772-49a7-8810-31e40948a542.png" width=30% height=30%>
+
+## Project 3 - BetterRest
+
+It's an app calculating best time to sleep given wake up time, amount of sleep the user desires, and amount of coffee user drinks. It used
+CreateML to gather Machine Learning Data from a csv file to calculate the time to sleep.
+
+<img src = "https://user-images.githubusercontent.com/96804163/154330879-a8300fdb-a535-4e59-9ef9-aeef2cbbe3c5.png" width=30% height=30%>
