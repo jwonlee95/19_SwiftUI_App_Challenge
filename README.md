@@ -26,3 +26,9 @@ It's an app that provides a random 8 letters word and the user should find a new
 A new word should be a valid word, not a duplicate.
 
 <img src = "https://user-images.githubusercontent.com/96804163/154341708-ac9e50ae-1d30-40f4-8ddc-4561fa7c1d47.png" width=30% height=30%>
+
+## Project 5 - iExpense
+
+It's an app that keeps track of user's expense. It saves data in UserDafault. It has slide view of adding expense when button is pressed and can swipe the expense to delete.
+
+<img src = "https://user-images.githubusercontent.com/96804163/154547568-4ed0427e-d7d3-49cb-92f2-56ed03621e00.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154547697-8b36fb2f-5c51-441a-af54-87151ccb5d85.png" width=30% height=30%>
