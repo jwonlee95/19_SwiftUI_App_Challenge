@@ -40,5 +40,10 @@ It's an app that shows Moon Missions from NASA, details of missions and astronau
 
 <img src = "https://user-images.githubusercontent.com/96804163/154738883-fb3d340e-86ee-48fb-bea7-a9888295b374.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154739037-9bb3d823-fbe3-4688-86a7-60358f25580c.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154739131-00f1380f-6edf-437f-a246-c238fc1df9e8.png" width=30% height=30%>
 
+## Project 7 - CupcakeCorner
+
+It's an app that orders cupcakes. You must enter order information to order your cupcakes.
+
+<img src = "https://user-images.githubusercontent.com/96804163/154738883-fb3d340e-86ee-48fb-bea7-a9888295b374.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154739037-9bb3d823-fbe3-4688-86a7-60358f25580c.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154739131-00f1380f-6edf-437f-a246-c238fc1df9e8.png" width=30% height=30%>
 
 
