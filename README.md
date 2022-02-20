@@ -42,8 +42,7 @@ It's an app that shows Moon Missions from NASA, details of missions and astronau
 
 ## Project 7 - CupcakeCorner
 
-It's an app that orders cupcakes. You must enter order information to order your cupcakes.
+It's an app that orders cupcakes. You must enter order information to order your cupcakes. It saves data in reqres api for testing purpose.
 
-<img src = "https://user-images.githubusercontent.com/96804163/154738883-fb3d340e-86ee-48fb-bea7-a9888295b374.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154739037-9bb3d823-fbe3-4688-86a7-60358f25580c.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154739131-00f1380f-6edf-437f-a246-c238fc1df9e8.png" width=30% height=30%>
-
+<img src = "https://user-images.githubusercontent.com/96804163/154861012-f2d8fb6d-c68a-4672-b537-e28aacb92e55.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154861053-78c7cd22-7e36-4ae2-941b-c3c985fff16d.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154861071-45fc33c6-89f2-4b4a-a511-f11305d42c12.png" width=30% height=30%>
 
