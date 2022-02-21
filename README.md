@@ -50,5 +50,5 @@ It's an app that orders cupcakes. You must enter order information to order your
 
 It's an app that keep track of books user read. It uses CoreData to store and delete data for the book.
 
-<img src = "https://user-images.githubusercontent.com/96804163/155018785-18d6fe44-6d34-4e10-a3ee-95b6873c3077.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154861053-78c7cd22-7e36-4ae2-941b-c3c985fff16d.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154861071-45fc33c6-89f2-4b4a-a511-f11305d42c12.png" width=30% height=30%>
+<img src = "https://user-images.githubusercontent.com/96804163/155018785-18d6fe44-6d34-4e10-a3ee-95b6873c3077.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/155019023-b44babf1-c3c1-4979-b06c-e470de1f4e5b.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154861071-45fc33c6-89f2-4b4a-a511-f11305d42c12.png" width=30% height=30%>
 
