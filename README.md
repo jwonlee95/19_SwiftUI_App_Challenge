@@ -52,3 +52,8 @@ It's an app that keep track of books user read. It uses CoreData to store and de
 
 <img src = "https://user-images.githubusercontent.com/96804163/155018785-18d6fe44-6d34-4e10-a3ee-95b6873c3077.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/155019023-b44babf1-c3c1-4979-b06c-e470de1f4e5b.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/155019139-f38a59be-ee74-41d3-a16e-9ab5d6e8e198.png" width=30% height=30%>
 
+## Project 9 - Instafilter
+
+It's an app that let users to select an Image and filter the Image as the user wants and saves it back to the device. Learned how to deal with UI Kit Image handling and how to link between SwiftUI and UIKit.
+
+<img src = "https://user-images.githubusercontent.com/96804163/155211984-70a2abff-3189-413b-9a02-84ae0882091d.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/155212204-d86dc769-87f1-4977-8708-9ecbcad3a59a.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155212363-8fcfa05d-85b4-4f3d-baf1-811f6f95356c.png" width=30% height=30%> 
