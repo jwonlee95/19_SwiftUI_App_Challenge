@@ -57,3 +57,15 @@ It's an app that keep track of books user read. It uses CoreData to store and de
 It's an app that let users to select an Image and filter the Image as the user wants and saves it back to the device. Learned how to deal with UI Kit Image handling and how to link between SwiftUI and UIKit.
 
 <img src = "https://user-images.githubusercontent.com/96804163/155211984-70a2abff-3189-413b-9a02-84ae0882091d.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/155212204-d86dc769-87f1-4977-8708-9ecbcad3a59a.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155212363-8fcfa05d-85b4-4f3d-baf1-811f6f95356c.png" width=30% height=30%> 
+
+## Project 10 - BucketList
+
+It's an app that let users to select an place from a given map, mark it and edit or save the location. It provides nearby places (Data from wikipedia API)
+
+Learned
+  - MVVM Structure
+  - Using authentification function using Apple's Face ID or other Biometrics.
+  - Maps using MapKit
+
+<img src = "https://user-images.githubusercontent.com/96804163/155380977-24b21689-3e6a-4f57-854f-34254e19821d.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/155381220-43eaaa37-8ce6-41b6-b118-ca6bc8006742.png" width=30% height=30%>
+
