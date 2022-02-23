@@ -61,6 +61,7 @@ It's an app that let users to select an Image and filter the Image as the user w
 ## Project 10 - BucketList
 
 It's an app that let users to select an place from a given map, mark it and edit or save the location. It provides nearby places (Data from wikipedia API)
+
 Learned
   - MVVM Structure
   - Using authentification function using Apple's Face ID or other Biometrics.
