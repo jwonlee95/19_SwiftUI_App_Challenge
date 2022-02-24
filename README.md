@@ -68,4 +68,16 @@ Learned
   - Maps using MapKit
 
  <img src = "https://user-images.githubusercontent.com/96804163/155382452-84fa69b6-7b74-43b4-bf43-83ee57d1e094.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155381220-43eaaa37-8ce6-41b6-b118-ca6bc8006742.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155380977-24b21689-3e6a-4f57-854f-34254e19821d.png" width=30% height=30%>
+ 
+ ## Project 11 - HotProspect
 
+It's an app that let users to create firends by scanning QR Codes, and make sure to contact them. It create and scan QR Codes, mark friends if they are contacted or not (Contacted friends will go to contacted tab otherwise, uncontacted tab).
+
+Learned
+  - Strcturing, generating, scanning to get info of QR Codes.
+  - Making tabs and showing results
+  - Notification settings
+  - Swipe Actions
+
+ <img src = "https://user-images.githubusercontent.com/96804163/155600376-4c2bef64-4bdf-4831-8e35-04bad1f5e3dd.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155600564-cb00ef9b-f2cb-4ddd-a1ad-12bde92b091c.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155600699-21cdc961-04cd-4896-8912-bc25b8b51e30.png" width=30% height=30%>
+ <img src = "https://user-images.githubusercontent.com/96804163/155600255-61e594fa-c44d-411d-955b-5cfe6726f8bb.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155600180-62b6f64b-fca7-42b4-a977-077dd85ec24d.png" width=30% height=30%>
