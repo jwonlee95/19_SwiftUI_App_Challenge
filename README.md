@@ -74,7 +74,7 @@ Learned
 It's an app that let users to create firends by scanning QR Codes, and make sure to contact them. It create and scan QR Codes, mark friends if they are contacted or not (Contacted friends will go to contacted tab otherwise, uncontacted tab).
 
 Learned
-  - Strcturing, generating, scanning to get info of QR Codes.
+  - Strcturing, generating, scanning to get info of QR Codes. 
   - Making tabs and showing results
   - Notification settings
   - Swipe Actions
