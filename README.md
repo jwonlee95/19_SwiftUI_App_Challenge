@@ -87,7 +87,7 @@ Learned
 It's an app that let creates cards and make learning stack of cards of them. Clicking a card will reveal the answer and swipeing left if got wrong and right if got correct. It has timer to give litte pressure.
 
 Learned
-  - Guestures in SwifUI
+  - Guestures in SwiftUI
   - Timer events (scenePhase to controll time when app is running on background) 
   - Special Settings for Accessibility (Differenciate without color, Voice Over)
   - UINotificationFeedbackGenerator (Vibrating the device on conditions)
