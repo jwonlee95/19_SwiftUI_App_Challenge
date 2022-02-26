@@ -84,7 +84,7 @@ Learned
  
   ## Project 12 - Flashzilla
 
-It's an app that let creates cards and make little quiz out of them. Clicking cards will reveal answer and swipeing lefe if got wrong and right if correct. It has timer to give litte pressure.
+It's an app that let creates cards and make learning stack of cards of them. Clicking a card will reveal the answer and swipeing left if got wrong and right if got correct. It has timer to give litte pressure.
 
 Learned
   - Guestures in SwifUI
