@@ -88,7 +88,7 @@ It's an app that let creates cards and make little quiz out of them. Clicking ca
 
 Learned
   - Guestures in SwifUI
-  - Timer events (including scenePhase) 
+  - Timer events (scenePhase to controll time when app is running on background) 
   - Special Settings for Accessibility (Differenciate without color, Voice Over)
   - UINotificationFeedbackGenerator (Vibrating the device on conditions)
 
