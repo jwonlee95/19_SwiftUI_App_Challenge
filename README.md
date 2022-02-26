@@ -93,4 +93,4 @@ Learned
   - UINotificationFeedbackGenerator (Vibrating the device on conditions)
 
  <img src = "https://user-images.githubusercontent.com/96804163/155855873-07a48320-c6b6-4118-87c1-890df2ee0356.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855886-81fc13b5-2b6d-45de-9897-10bda25f3386.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855904-a5ac0642-9c1c-439e-bbc9-7380a80728fd.jpeg" width=30% height=30%>
- <img src = "https://user-images.githubusercontent.com/96804163/155855918-eea00f2c-b522-409b-a5b3-489d49472aee.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155600180-62b6f64b-fca7-42b4-a977-077dd85ec24d.png" width=30% height=30%>
+ <img src = "https://user-images.githubusercontent.com/96804163/155855918-eea00f2c-b522-409b-a5b3-489d49472aee.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855961-f29aa5cf-51c4-4efd-9d84-bf5a30cb3726.jpeg" width=30% height=30%>
