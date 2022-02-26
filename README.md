@@ -74,10 +74,23 @@ Learned
 It's an app that let users to create firends by scanning QR Codes, and make sure to contact them. It create and scan QR Codes, mark friends if they are contacted or not (Contacted friends will go to contacted tab otherwise, uncontacted tab).
 
 Learned
-  - Strcturing, generating, scanning to get info of QR Codes.
+  - Strcturing, generating, scanning to get info of QR Codes. 
   - Making tabs and showing results
   - Notification settings
   - Swipe Actions
 
  <img src = "https://user-images.githubusercontent.com/96804163/155600376-4c2bef64-4bdf-4831-8e35-04bad1f5e3dd.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155600564-cb00ef9b-f2cb-4ddd-a1ad-12bde92b091c.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155600699-21cdc961-04cd-4896-8912-bc25b8b51e30.png" width=30% height=30%>
  <img src = "https://user-images.githubusercontent.com/96804163/155600255-61e594fa-c44d-411d-955b-5cfe6726f8bb.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155600180-62b6f64b-fca7-42b4-a977-077dd85ec24d.png" width=30% height=30%>
+ 
+  ## Project 12 - Flashzilla
+
+It's an app that let creates cards and make little quiz out of them. Clicking cards will reveal answer and swipeing lefe if got wrong and right if correct. It has timer to give litte pressure.
+
+Learned
+  - Guestures in SwifUI
+  - Timer events (including scenePhase) 
+  - Special Settings for Accessibility (Differenciate without color, Voice Over)
+  - UINotificationFeedbackGenerator (Vibrating the device on conditions)
+
+ <img src = "https://user-images.githubusercontent.com/96804163/155855873-07a48320-c6b6-4118-87c1-890df2ee0356.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855886-81fc13b5-2b6d-45de-9897-10bda25f3386.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855904-a5ac0642-9c1c-439e-bbc9-7380a80728fd.jpeg" width=30% height=30%>
+ <img src = "https://user-images.githubusercontent.com/96804163/155855918-eea00f2c-b522-409b-a5b3-489d49472aee.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855961-f29aa5cf-51c4-4efd-9d84-bf5a30cb3726.jpeg" width=30% height=30%>
