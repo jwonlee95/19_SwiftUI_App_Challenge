@@ -84,7 +84,7 @@ Learned
  
   ## Project 12 - Flashzilla
 
-It's an app that let creates cards and make learning stack of cards of them. Clicking a card will reveal the answer and swipeing left if got wrong and right if got correct. It has timer set to 100 seconds to give litte pressure.
+It's an app that let creates cards and make learning stack of cards of them. Clicking a card will reveal the answer and swiping left if got wrong and right if got correct. It has timer set to 100 seconds to give litte pressure.
 
 Learned
   - Gestures in SwiftUI
