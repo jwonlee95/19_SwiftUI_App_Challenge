@@ -94,3 +94,14 @@ Learned
 
  <img src = "https://user-images.githubusercontent.com/96804163/155855873-07a48320-c6b6-4118-87c1-890df2ee0356.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855886-81fc13b5-2b6d-45de-9897-10bda25f3386.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855904-a5ac0642-9c1c-439e-bbc9-7380a80728fd.jpeg" width=30% height=30%>
  <img src = "https://user-images.githubusercontent.com/96804163/155855918-eea00f2c-b522-409b-a5b3-489d49472aee.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855961-f29aa5cf-51c4-4efd-9d84-bf5a30cb3726.jpeg" width=30% height=30%>
+ 
+   ## Project 13 - SnowSeeker
+
+It's an app that contains information about snow resorts. You can add resorts to your favorites or search for a resort name.
+
+Learned
+  - Search Functions in SwiftUI
+  - SizeClass (Designing depending on user's device size) 
+  - Icons
+
+ <img src = "https://user-images.githubusercontent.com/96804163/158256716-9f436bf0-5a1f-4494-b631-ee83919486d5.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/158256780-eaad0962-d7bc-4f5a-a580-d62b0fbdc6c1.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855904-a5ac0642-9c1c-439e-bbc9-7380a80728fd.jpeg" width=30% height=30%>
