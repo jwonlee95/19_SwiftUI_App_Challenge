@@ -104,4 +104,4 @@ Learned
   - SizeClass (Designing depending on user's device size) 
   - Icons
 
- <img src = "https://user-images.githubusercontent.com/96804163/158256716-9f436bf0-5a1f-4494-b631-ee83919486d5.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/158256780-eaad0962-d7bc-4f5a-a580-d62b0fbdc6c1.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855904-a5ac0642-9c1c-439e-bbc9-7380a80728fd.jpeg" width=30% height=30%>
+ <img src = "https://user-images.githubusercontent.com/96804163/158256716-9f436bf0-5a1f-4494-b631-ee83919486d5.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/158256780-eaad0962-d7bc-4f5a-a580-d62b0fbdc6c1.png" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/158257035-980e6799-93d6-45ed-85dc-6a2602e7efd3.png" width=30% height=30%>
