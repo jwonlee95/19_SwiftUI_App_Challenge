@@ -42,7 +42,7 @@ It's an app that shows Moon Missions from NASA, details of missions and astronau
 
 ## Project 7 - CupcakeCorner
 
-It's an app that orders cupcakes. You must enter order information to order your cupcakes. It saves data in reqres api for testing purpose.
+It's an app that orders cupcakes. You must enter order information to order your cupcakes. It saves data in reqres api for testing purposes.
 
 <img src = "https://user-images.githubusercontent.com/96804163/154861012-f2d8fb6d-c68a-4672-b537-e28aacb92e55.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154861053-78c7cd22-7e36-4ae2-941b-c3c985fff16d.png" width=30% height=30%> <img src = "https://user-images.githubusercontent.com/96804163/154861071-45fc33c6-89f2-4b4a-a511-f11305d42c12.png" width=30% height=30%>
 
@@ -60,7 +60,7 @@ It's an app that let users to select an Image and filter the Image as the user w
 
 ## Project 10 - BucketList
 
-It's an app that let users to select an place from a given map, mark it and edit or save the location. It provides nearby places (Data from wikipedia API)
+It's an app that let users to select an place from a given map, mark it and edit or save the location. It provides nearby places (Data from Wikipedia API)
 
 Learned
   - MVVM Structure
@@ -71,10 +71,10 @@ Learned
  
  ## Project 11 - HotProspect
 
-It's an app that let users to create firends by scanning QR Codes, and make sure to contact them. It create and scan QR Codes, mark friends if they are contacted or not (Contacted friends will go to contacted tab otherwise, uncontacted tab).
+It's an app that let users to create friends by scanning QR Codes, and make sure to contact them. It create and scan QR Codes, mark friends if they are contacted or not (Contacted friends will go to contacted tab otherwise, uncontacted tab).
 
 Learned
-  - Strcturing, generating, scanning to get info of QR Codes. 
+  - Structuring, generating, scanning to get info of QR Codes. 
   - Making tabs and showing results
   - Notification settings
   - Swipe Actions
@@ -84,12 +84,12 @@ Learned
  
   ## Project 12 - Flashzilla
 
-It's an app that let creates cards and make learning stack of cards of them. Clicking a card will reveal the answer and swiping left if got wrong and right if got correct. It has timer set to 100 seconds to give litte pressure.
+It's an app that let creates cards and make learning stack of cards of them. Clicking a card will reveal the answer and swiping left if got wrong and right if got correct. It has timer set to 100 seconds to give little pressure.
 
 Learned
   - Gestures in SwiftUI
-  - Timer events (scenePhase to controll time when app is running on background) 
-  - Special Settings for Accessibility (Differenciate without color, Voice Over)
+  - Timer events (scenePhase to control time when app is running on background) 
+  - Special Settings for Accessibility (Differentiate without color, Voice Over)
   - UINotificationFeedbackGenerator (Vibrating the device on conditions)
 
  <img src = "https://user-images.githubusercontent.com/96804163/155855873-07a48320-c6b6-4118-87c1-890df2ee0356.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855886-81fc13b5-2b6d-45de-9897-10bda25f3386.jpeg" width=30% height=30%><img src = "https://user-images.githubusercontent.com/96804163/155855904-a5ac0642-9c1c-439e-bbc9-7380a80728fd.jpeg" width=30% height=30%>
